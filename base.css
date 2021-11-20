@@ -1,4 +1,5 @@
 /* Test | November 20, 2021 */
 [app-guild-id="895642817995632682"] {
- --brand-experiment: #6ed2a3 !important;
+ --brand-experiment: #6ed2a3;
+ --brand-experiment-560: #32ae74;
 }
