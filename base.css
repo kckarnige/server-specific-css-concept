@@ -1,4 +1,4 @@
 /* Test | November 20, 2021 */
-body[body-guild-id="895642817995632682"] {
- --brand-experiment: #95ffd8;
+[app-guild-id="895642817995632682"] {
+ --brand-experiment: #95ffd8 !important;
 }
