@@ -1,4 +1,4 @@
+import url('https://raw.githubusercontent.com/phenom4n4n/blurple-replacer/master/blurple_gone.css');
 [app-guild-id="280806472928198656"] {
- --brand-experiment: #6ed2a3;
- --brand-experiment-560: #32ae74;
+ --alt-color: 110, 210, 163;
 }
