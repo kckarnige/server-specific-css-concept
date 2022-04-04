@@ -1,4 +1,4 @@
-import url('https://raw.githubusercontent.com/phenom4n4n/blurple-replacer/master/blurple_gone.css');
+@import url('https://raw.githubusercontent.com/phenom4n4n/blurple-replacer/master/blurple_gone.css');
 [app-guild-id="280806472928198656"] {
  --alt-color: 110, 210, 163;
 }
